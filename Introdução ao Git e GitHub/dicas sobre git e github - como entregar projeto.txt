@@ -1,0 +1,21 @@
+Desafios de Projeto DIO
+ 
+Um dos elementos centrais da nossa metodologia educacional é o conceito de Project-Based Learning / Problem-Based Learning (PBL). Nesse contexto, nossos Desafios de Projeto (também conhecidos como Labs) têm como objetivo aplicar o PBL em conjunto com o GitHub, para criação de um portfólio de soluções consistente ao longo da nossa jornada educacional.
+ 
+IMPORTANTE: Os Labs entregues na plataforma da DIO ficam disponíveis para as empressas parceiras avaliá-los tecnicamente. Por isso, caprichem no desenvolvimento e documentação de suas soluções, pois elas podem ser um grande diferencial ao seu favor em um processo de contratação 😎
+ 
+O Que Você Precisa Saber Sobre Git e GitHub?
+ 
+I. Para projetos mais simples, você pode utilizar funcionalidades oferecidas pelo próprio GitHub, como por exemplo:
+ 
+Criar um novo repositório (sempre público) através do link https://github.com/new (acessível pelo site através do botão "+", depois "Novo repositório"). Alternativamente, também é comum utilizar o conceito de "fork" em um projeto base disponibilidado pelo expert (esta funcionalidade encontra-se no canto superior direito da página do repositório no GitHub). Tecnicamente, um "fork" cria uma cópia exata do projeto em seu GitHub, mantendo assim uma referência direta ao código original, o que é muito útil para projeto com uma base sólida a ser seguida.
+Lembre-se de que, a URL criada no item anterior é a que você deve entregar ao finalizar o(s) desafio(s) proposto(s) no Lab. Por exemplo: https://github.com/falvojr/lab-banco-digital-oo, onde "falvojr" representa o usuário do GitHub e "lab-banco-digital-oo" é o nome do repositório.
+Por fim, o GitHub possui um editor de código online, o qual pode ser acessado apenas teclando o simbolo de "ponto final" em seu teclado. Com isso, uma versão Web do VSCode será aberta e você poderá editar os arquivos do seu projeto como se tivesse essa IDE instalada em sua máquina. Além disso, esta ferramenta conta com todo controle e versionamento de código (via Git, obviamente), onde você pode fazer normalmente os seus commits, pushes etc.
+Nesse contexto, segue um conteúdo exclusivo do DIO Global, que foi disponibilizado gratuitamente para que todos entendam como o GitHub pode ser uma ferramenta poderosa para criação do nosso portfólio de projetos: Criando Seu Currículo Online Usando Apenas Ferramentas do GitHub.
+ 
+II. Por outro lado, caso você esteja desbravando Desafios de Projeto mais complexos e robustos, recomendamos que consuma alguns dos nossos conteúdos educacionais voltados para o entendimento total desta tecnologia, são eles:
+ 
+Primeiros Passos com Git e Github (recomendado)
+Introdução ao Git e ao GitHub (opcional)
+Trabalhando com Branches no GitHub (opcional)
+Git e GitHub Focado em PullRequest (opcional)

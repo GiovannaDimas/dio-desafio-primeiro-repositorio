@@ -1,0 +1,21 @@
+git init - iniciar repositorio no git
+git add - mover arquivos e começar o versionamento
+git commit - para fazer o  primeiro commit
+git status - ajuda a monitorar o status dos arquivos (untracked/unmodified/modified/staged)
+git remote add origin- adicionar repositorio ao github (server remote)
+git remote -v - lista os repositorios remotos cadastrados
+git push - empurra o diretorio
+
+> quando lhe damos com terminal sempre colocar o nome do programa na frente - todo comando git leva o nome dele na frente
+> quando o bjeto commit é criado ele sempre tem um autor
+> arquivo markdown é uma forma mais humana de escrever um html (que é um esqueleto, estrutura basica de qualquer pag web) todo tipo de markdown tem um guia
+> os commit sao os objetos dos gits que dao significado as alterações e esses objetos em si carregam mensagem de texto juntamente com outros meta dados (autor, hora que foi criado)
+> origin é apenas um apelido para nao digitar o https o tempo todo
+
+ls - listar pastas
+cd + nome da pasta existente- entra na pasta (caminha entre as pastas tambem)
+ctrl+L - limpa tela
+mkdir + nome da nova pasta- cria nova pasta
+ls -a - mostra arquivos ocultos como a pasta .git
+cd.. - volta para a pasta anterior que foi aberta
+pwd - mostra o caminho existente para chegar no arquivo desejado
